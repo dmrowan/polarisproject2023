@@ -50,3 +50,12 @@ Three part astrobites piece on [Tools for Reading Papers](https://astrobites.org
         * [merger animation](https://www.youtube.com/watch?v=1DmCkeK_YU4&ab_channel=GeorgiaTech)
         * [effects on earth](https://www.ligo.caltech.edu/video/ligo20160211v5)
         * [LIGO waveform](https://www.ligo.caltech.edu/image/ligo20160211a)
+        * [LIGO mass plot](https://media.ligo.northwestern.edu/gallery/mass-plot)
+    * X-ray binary systems
+        * [System schematic](https://www.cosmos.esa.int/documents/519784/530472/X-Ray+Binaries+Monitoring/658b405d-2ffb-4676-80f0-ec68c57e9ff2?t=1425322409742)
+    * There are ~100 million black holes in the Milky Way -- goal is to find the "quiet" ones
+    * Overview of Gaia Mission
+* Setup in Jupyter notebook
+
+**Before next class**
+* Searching Gaia Data with SQL notebook
