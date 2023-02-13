@@ -37,3 +37,16 @@ Three part astrobites piece on [Tools for Reading Papers](https://astrobites.org
 [More astrobites tips](https://astrobites.org/2011/04/19/journal-articles-in-astronomy/)
 
 [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)
+
+## Project Calendar
+
+### Feb 13th
+
+**In Class:** Project Overview
+* Why do we care about non-interacting BHs?
+    * [Nucleosynthesis and the periodic table](https://www.science.org/doi/10.1126/science.aau9540)
+    * [Hyperphysics supernovae](http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/snovcn.html)
+    * Observing BHs with GWs
+        * [merger animation](https://www.youtube.com/watch?v=1DmCkeK_YU4&ab_channel=GeorgiaTech)
+        * [effects on earth](https://www.ligo.caltech.edu/video/ligo20160211v5)
+        * [LIGO waveform](https://www.ligo.caltech.edu/image/ligo20160211a)
