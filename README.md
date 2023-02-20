@@ -6,6 +6,7 @@ We are interested in studying black holes to learn more about the late stage evo
 
 The majority of stellar mass black holes are detected in X-ray binary systems or in gravitational wave mergers, but these systems represent a small fraction of possible binary configurations. Most black holes will be isolated or in non-interacting systems. Detecting these systems is difficult, since the black holes are electromagnetically dark, but not impossible. In this project we will work with Gaia data and RV observations to characterize a black hole around a Sun-like star.
 
+
 ## Data Files
 
 We will be using data from [Gaia Data Release 3](https://www.cosmos.esa.int/web/gaia/dr3). We will search for this data in python, so nothing to download/import. 
@@ -14,6 +15,7 @@ The radial velocities are from [Table D1 of El-Badry et al. (2022)](https://ui.a
 
 ## Background papers/articles
 
+* [Gaia BH-1 paper](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract)
 * [TAT-1 press release](https://news.osu.edu/scientists-may-just-have-discovered-a-new-class-of-black-holes/)
 * [LIGO mass plot](https://media.ligo.northwestern.edu/gallery/mass-plot)
 * [RV method video](https://www.youtube.com/watch?v=sJ45Gb99KII) -- except we have a black hole instead of a planet
@@ -59,3 +61,11 @@ Three part astrobites piece on [Tools for Reading Papers](https://astrobites.org
 
 **Before next class**
 * Searching Gaia Data with SQL notebook
+
+### Feb 20th
+**In Class**: Lecture day (no work time :( )
+
+**Before next class**
+* Finish searching Gaia Data with SQL notebook
+
+
