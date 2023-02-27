@@ -26,6 +26,7 @@ The radial velocities are from [Table D1 of El-Badry et al. (2022)](https://ui.a
 * [An Isolated Mass Gap Black Hole (Lam 2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220201903L/abstract)
 * [AAVSO description of phase folding](https://www.aavso.org/sites/default/files/Chapter12.pdf)
 * [Derivation of binary mass function](https://imagine.gsfc.nasa.gov/features/yba/CygX1_mass/binary/equation_derive.html)
+* [Python Cheatsheets](https://www.pythoncheatsheet.org/)
 
 ## Reading Scientific Papers
 
@@ -67,5 +68,13 @@ Three part astrobites piece on [Tools for Reading Papers](https://astrobites.org
 
 **Before next class**
 * Finish searching Gaia Data with SQL notebook
+
+### Feb 27th
+**In Class**:
+* Review SQL notebook section
+* Start CMD notebook
+
+**Before next class
+* Finish CMD notebook section
 
 
